@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/24784606/laravel-routes-not-working-apache-configuration-only-allows-for-public-index-ph
